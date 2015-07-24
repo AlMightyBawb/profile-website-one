@@ -1,0 +1,27 @@
+	body {
+
+		/*background-position: center;*/
+		}	
+
+	header {
+		background: url("titleBG.png");
+		background-size: cover;
+		background-repeat: no-repeat;
+		text-align: center;
+		
+	}
+	
+	title {
+		
+		}
+	
+	img {
+		height: 250px;
+		margin: 0px 0px 40px 0px;
+	}
+
+	h1 {
+		color: blue;
+		font-family: Arial;
+		padding: 20px 0px 0px 0px;
+		}
